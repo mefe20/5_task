@@ -1,0 +1,14 @@
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\bin\Debug\net6.0\task_2.exe
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\bin\Debug\net6.0\task_2.deps.json
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\bin\Debug\net6.0\task_2.dll
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\bin\Debug\net6.0\task_2.pdb
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.dll
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\refint\task_2.dll
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.pdb
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\Users\Azerty\Desktop\5_zadanie\ConsoleApp1\task\obj\Debug\net6.0\ref\task_2.dll
